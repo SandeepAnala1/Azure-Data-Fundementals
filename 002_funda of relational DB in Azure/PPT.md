@@ -7,3 +7,5 @@
 ![image](https://github.com/user-attachments/assets/3a2ea998-28fc-4890-baf7-9f15ad766fcd)
 ![image](https://github.com/user-attachments/assets/b1493162-07d3-4e6a-83e6-c035f279edf9)
 
+# Hands on
+[Azure SQL Database](https://github.com/SandeepAnala1/Azure-Data-Engineering/blob/main/03-Azure-Data-Factory(ADF)/ADF04_Azure%20Sql%20Database.md#lab-1-create-free-azure-sql-server-and-database)
